@@ -1,2 +1,2 @@
 # Hackerrank
-my hackerrank solutions as I move along them.
+hackerrank solutions for algorithms as I move along each problem.
